@@ -1,0 +1,3 @@
+This is a set of simple PHP classes I wrote when I needed
+to relay the contents of a Gmail mailbox to another mail.
+See Example.php.
